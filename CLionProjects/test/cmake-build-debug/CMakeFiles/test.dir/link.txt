@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/test.dir/main.cpp.o CMakeFiles/test.dir/LR_model.cpp.o  -o test  -Wl,-rpath,/home/hqf/Downloads/tensorflow-1.13.1/bazel-bin/tensorflow /home/hqf/Downloads/tensorflow-1.13.1/bazel-bin/tensorflow/libtensorflow_cc.so /home/hqf/Downloads/tensorflow-1.13.1/bazel-bin/tensorflow/libtensorflow_framework.so 
